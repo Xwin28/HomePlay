@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 12716c52db60c4745a8d087bc19925b2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: suitCase0003
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 898
+      width: 86
+      height: 110
+    spriteID: 78024f99cc77dc94a87bed52cdc5c01e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5, y: 898}
+  - name: WizardHat0006
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 543
+      width: 87
+      height: 83
+    spriteID: f9e4602c5d475af4dba68e56013ecf2f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 99, y: 447}
+  - name: char04_0000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 598
+      width: 215
+      height: 198
+    spriteID: 7c39edf62b2078f4da38f437d617443b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -76, y: 372}
+  - name: chalice0007
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 944
+      width: 53
+      height: 62
+    spriteID: 178a5c7252483a046a37bdbf35c5af59
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -77, y: 508}
+  - name: paintingB0000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 804
+      width: 143
+      height: 86
+    spriteID: cf6e43958c368ec4096cefb16f66fabd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 246, y: 327}
+  - name: heart0007
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 692
+      width: 73
+      height: 77
+    spriteID: 53bb726431920f5458f1dc07033480e9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 290, y: 314}
+  - name: key0000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 227
+      y: 738
+      width: 52
+      height: 54
+    spriteID: edf47b5e70143184f8855fd1f3ef8b4a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 144, y: 628}
+  - name: crown0007
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 449
+      width: 104
+      height: 86
+    spriteID: 74bd908f9bc55cf4bb14494e4922f577
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 396, y: 449}
+  - name: dice01_0001
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 944
+      width: 55
+      height: 66
+    spriteID: a52a2c59a0f096c48a67d109bbe0cd54
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -332, y: 813}
+  - name: coinProcJam0003
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 634
+      width: 71
+      height: 78
+    spriteID: eaa5ae18b1919ab499fdabb21fe04b8d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 432, y: 503}
+  - name: boxGift_0003
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 227
+      y: 598
+      width: 119
+      height: 132
+    spriteID: 8575c645966a1724caa9c63645a1ec9d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 157, y: 589}
+  - name: boxGift_0000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 598
+      width: 70
+      height: 86
+    spriteID: 695cee7cb6d56fb4dacfbfad6c425544
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 354, y: 598}
+  - name: boxGift_0001
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 804
+      width: 107
+      height: 132
+    spriteID: 7b589b4eeae9a0349bc9a190b18bbf2b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 131, y: 766}
+  - name: bottlePotionHealth_000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 944
+      width: 55
+      height: 71
+    spriteID: eea9f547e67cb124da9c74dec789a817
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -246, y: 788}
+  - name: bed0001
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 4
+      width: 432
+      height: 437
+    spriteID: 4a96a89f2dd6042489496f23d52f43e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 444, y: -57}
+  - name: chestA0005
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 804
+      width: 119
+      height: 132
+    spriteID: 575672ff5e90a8143b06e68730f1b54c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -44, y: 516}
+  - name: chestA0000
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 898
+      width: 87
+      height: 116
+    spriteID: aa4950f3bbee41448ac8de0b33dd39c1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 121, y: 557}
+  - name: water01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 432
+      height: 586
+    spriteID: 0c773b2a7dfa18f4dbde8a443bf70a3e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 432, y: 586}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: suitCase0003
+    spriteName: suitCase0003
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 78024f99cc77dc94a87bed52cdc5c01e
+    layerID: 23
+    mosaicPosition: {x: 341, y: 898}
+  - name: WizardHat0006
+    spriteName: WizardHat0006
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f9e4602c5d475af4dba68e56013ecf2f
+    layerID: 24
+    mosaicPosition: {x: 444, y: 543}
+  - name: char04_0000
+    spriteName: char04_0000
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c39edf62b2078f4da38f437d617443b
+    layerID: 22
+    mosaicPosition: {x: 4, y: 598}
+  - name: chalice0007
+    spriteName: chalice0007
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 178a5c7252483a046a37bdbf35c5af59
+    layerID: 21
+    mosaicPosition: {x: 67, y: 944}
+  - name: paintingB0000
+    spriteName: paintingB0000
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf6e43958c368ec4096cefb16f66fabd
+    layerID: 20
+    mosaicPosition: {x: 246, y: 804}
+  - name: heart0007
+    spriteName: heart0007
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 53bb726431920f5458f1dc07033480e9
+    layerID: 19
+    mosaicPosition: {x: 354, y: 692}
+  - name: key0000
+    spriteName: key0000
+    isGroup: 0
+    parentIndex: -1
+    spriteID: edf47b5e70143184f8855fd1f3ef8b4a
+    layerID: 18
+    mosaicPosition: {x: 227, y: 738}
+  - name: crown0007
+    spriteName: crown0007
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 74bd908f9bc55cf4bb14494e4922f577
+    layerID: 17
+    mosaicPosition: {x: 444, y: 449}
+  - name: dice01_0001
+    spriteName: dice01_0001
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a52a2c59a0f096c48a67d109bbe0cd54
+    layerID: 16
+    mosaicPosition: {x: 4, y: 944}
+  - name: coinProcJam0003
+    spriteName: coinProcJam0003
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eaa5ae18b1919ab499fdabb21fe04b8d
+    layerID: 15
+    mosaicPosition: {x: 444, y: 634}
+  - name: boxGift_0003
+    spriteName: boxGift_0003
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8575c645966a1724caa9c63645a1ec9d
+    layerID: 11
+    mosaicPosition: {x: 227, y: 598}
+  - name: boxGift_0000
+    spriteName: boxGift_0000
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 695cee7cb6d56fb4dacfbfad6c425544
+    layerID: 10
+    mosaicPosition: {x: 354, y: 598}
+  - name: boxGift_0001
+    spriteName: boxGift_0001
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7b589b4eeae9a0349bc9a190b18bbf2b
+    layerID: 9
+    mosaicPosition: {x: 131, y: 804}
+  - name: bottlePotionHealth_000
+    spriteName: bottlePotionHealth_000
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eea9f547e67cb124da9c74dec789a817
+    layerID: 8
+    mosaicPosition: {x: 131, y: 944}
+  - name: bed0001
+    spriteName: bed0001
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4a96a89f2dd6042489496f23d52f43e5
+    layerID: 7
+    mosaicPosition: {x: 444, y: 4}
+  - name: chestA0005
+    spriteName: chestA0005
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 575672ff5e90a8143b06e68730f1b54c
+    layerID: 14
+    mosaicPosition: {x: 4, y: 804}
+  - name: chestA0000
+    spriteName: chestA0000
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa4950f3bbee41448ac8de0b33dd39c1
+    layerID: 13
+    mosaicPosition: {x: 246, y: 898}
+  - name: water01
+    spriteName: water01
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0c773b2a7dfa18f4dbde8a443bf70a3e
+    layerID: 4
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: KidRoom Texture
+  prefabAssetName: KidRoom Prefab
+  spriteLibAssetName: KidRoom Sprite Lib
+  secondarySpriteTextures: []
